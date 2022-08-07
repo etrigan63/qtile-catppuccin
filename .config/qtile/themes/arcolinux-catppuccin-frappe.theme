@@ -1,0 +1,23 @@
+# COLORS FOR THE BAR
+#Theme name : ArcoLinux Catppuccin Frappe
+def init_colors():
+    return [["#51576D", "#51576D"], # color 0
+            ["#E78284", "#E78284"], # color 1
+            ["#A6D189", "#A6D189"], # color 2
+            ["#E5C890", "#E5C890"], # color 3
+            ["#8CAAEE", "#8CAAEE"], # color 4
+            ["#F4B8E4", "#F4B8E4"], # color 5
+            ["#67afc1", "#67afc1"], # color 6
+            ["#B5BFE2", "#B5BFE2"], # color 7
+            ["#626880", "#626880"], # color 8
+            ["#E78284", "#E78284"], # color 9
+            ["#A6D189", "#A6D189"], # color 10
+            ["#E5C890", "#E5C890"], # color 11
+            ["#8CAAEE", "#8CAAEE"], # color 12
+            ["#F4B8E4", "#F4B8E4"], # color 13
+            ["#81C8BE", "#81C8BE"], # color 14
+            ["#A5ADCE", "#A5ADCE"], # color 15
+            ["#303446", "#303446"], # color 16 - background
+            ["#C6D0F5", "#C6D0F5"]] # color 17 - foreground
+
+colors = init_colors()
